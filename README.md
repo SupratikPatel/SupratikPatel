@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Enhancing my skills in Generative AI and developing a customizable RAG ChatBot using open-source LLMs.<br>🤝 I’m looking to collaborate on: Innovative projects involving AI.<br>🌱 I’m currently learning: Advanced techniques in Python and Java, and exploring cloud solutions.<br>💬 Ask me about: My experience with financial technology and developing interactive games and software like MazeRunner and Library Management System.<br>
+🔭 I’m currently working on: Enhancing my skills in Generative AI and developing a customizable automation tool using open-source LLMs.<br>🤝 I’m looking to collaborate on: Innovative projects involving AI.<br>🌱 I’m currently learning: Advanced techniques in Python and Java, and exploring cloud solutions.<br>💬 Ask me about: My experience with financial technology and developing interactive games and software like MazeRunner and Library Management System.<br>
 
 
 ## 🌐 Socials:
